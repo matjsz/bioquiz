@@ -1,0 +1,992 @@
+[
+    {
+        "question": "Qual das seguintes fontes de produção de energia é a mais recomendável para a diminuição dos gases causadores do aquecimento global?",
+        "questionNumber": "1",
+        "a": "Óleo diesel.",
+        "b": "Gasolina.",
+        "c": "Carvão mineral.",
+        "d": "Vento.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Em que ano e onde aconteceu o maior acidente aéreo da história do Brasil?",
+        "questionNumber": "2",
+        "a": "Ano 2007, em São Paulo",
+        "b": "Ano 2006, no Mato Grosso",
+        "c": "Ano 1982, no Ceará",
+        "d": "Ano 1996, em São Paulo",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Qual das alternativas apresenta os Presidentes do Brasil em ordem de sucessão?",
+        "questionNumber": "3",
+        "a": "Dilma Rousseff, Lula, Jair Bolsonaro",
+        "b": "Fernando Henrique, Itamar Franco, Lula",
+        "c": "Dilma Rousseff, Michel Temer, Jair Bolsonaro",
+        "d": "Collor, Lula, Dilma Rousseff",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Quais destas empresas brasileiras foram incluídas no pacote de privatizações do governo Temer?",
+        "questionNumber": "4",
+        "a": "Eletrobras e Embraer",
+        "b": "Eletrobras e Casa da Moeda",
+        "c": "Aeroporto de Congonhas e Vale S.A.",
+        "d": "Casa da Moeda e Aeroporto Internacional do Rio de Janeiro Galeão/Tom Jobim",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Quais destas empresas brasileiras foram incluídas no pacote de privatizações do governo Temer?",
+        "questionNumber": "4",
+        "a": "Eletrobras e Embraer",
+        "b": "Eletrobras e Casa da Moeda",
+        "c": "Aeroporto de Congonhas e Vale S.A.",
+        "d": "Casa da Moeda e Aeroporto Internacional do Rio de Janeiro Galeão/Tom Jobim",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Qual a função da ONU?",
+        "questionNumber": "6",
+        "a": "Zelar pela cultura em todas as nações",
+        "b": "Unir as nações com o objetivo de manter a paz e a segurança mundial",
+        "c": "Financiar países em desenvolvimento",
+        "d": "Regular o funcionamento do sistema financeiro a nível internacional",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Qual a primeira mulher a ganhar um prêmio Nobel?",
+        "questionNumber": "7",
+        "a": "Madre Teresa de Calcutá",
+        "b": "Elizabeth Blackweel",
+        "c": "Valentina Tereshkova",
+        "d": "Marie Curie",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Em que governo brasileiro foi sancionada a lei das cotas para o ensino superior?",
+        "questionNumber": "8",
+        "a": "Governo de Dilma Rousseff",
+        "b": "Governo de José Sarney",
+        "c": "Governo de Fernando Henrique",
+        "d": "Governo de Luís Inácio Lula da Silva",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Chernobyl e Césio-137 fazem parte dos maiores acidentes nucleares da história. Em que países aconteceram?",
+        "questionNumber": "9",
+        "a": "Rússia e Espanha",
+        "b": "Ucrânia e Brasil",
+        "c": "Estados Unidos e Ucrânia",
+        "d": "Japão e Brasil",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Como morreu Saddam Hussein?",
+        "questionNumber": "10",
+        "a": "Vítima de câncer",
+        "b": "Suicídio",
+        "c": "Decapitado",
+        "d": "Enforcado",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Como forma de resistir às tradições do Halloween, qual a data comemorativa foi instituída no Brasil para ser celebrada no dia 31 de outubro?",
+        "questionNumber": "11",
+        "a": "Dia das bruxas",
+        "b": "Dia do folclore",
+        "c": "Dia da poupança",
+        "d": "Dia do Saci",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Em que país se localizava Auschwitz, o maior campo de concentração nazi?",
+        "questionNumber": "12",
+        "a": "Alemanha",
+        "b": "Polônia",
+        "c": "Estados Unidos",
+        "d": "Áustria",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Quem é Luiz Gabriel Tiago?",
+        "questionNumber": "13",
+        "a": "Brasileiro indicado ao Prêmio Nobel da Paz 2018",
+        "b": "Militar e político brasileiro",
+        "c": "Escritor e poeta português",
+        "d": "Escritor e poeta espanhol",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Qual o nome do líder da Coreia do Norte?",
+        "questionNumber": "14",
+        "a": "Pak Pong-ju",
+        "b": "Kim Jong-un",
+        "c": "Kim Jong-Il",
+        "d": "Moon Jae-in",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Quais as consequências para o Brasil decorrentes da crise na Venezuela?",
+        "questionNumber": "15",
+        "a": "Sobrecarregamento no sistema público de saúde em Roraima",
+        "b": "Fortalecimento do Mercosul",
+        "c": "Aumento de mão-de-obra",
+        "d": "Crescimento de investimentos estrangeiros",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Em 2018 é o centenário da morte de que importante poeta brasileiro?",
+        "questionNumber": "16",
+        "a": "Monteiro Lobato",
+        "b": "Machado de Assis",
+        "c": "Aluísio de Azevedo",
+        "d": "Olavo Bilac",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Que país foram as Olimpíadas de 2020?",
+        "questionNumber": "17",
+        "a": "Catar",
+        "b": "Rússia",
+        "c": "França",
+        "d": "Japão",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Quais as maiores pandemias da história?",
+        "questionNumber": "18",
+        "a": "Gripe espanhola e câncer",
+        "b": "Varíola e hipertensão",
+        "c": "Peste negra e covid-19",
+        "d": "Cólera e colesterol",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Quem é Abraham Weintraub?",
+        "questionNumber": "19",
+        "a": "Ministro da Educação do Brasil entre 2019 e 2020",
+        "b": "Compositor de origem judaica",
+        "c": "Ex-agente secreto israelense",
+        "d": "Sociólogo e ativista brasileiro",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Quem é a primeira santa nascida no Brasil, canonizada em 2019?",
+        "questionNumber": "20",
+        "a": "Santa Dulce dos Pobres",
+        "b": "Nossa Senhora Aparecida",
+        "c": "Madre Teresa de Calcutá",
+        "d": "Rainha Santa Isabel",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Sobre a recombinação gênica é correto afirmar que:",
+        "questionNumber": "21",
+        "a": "A recombinação gênica pode ser homóloga ou heteróloga.",
+        "b": "A principal diferença entre os tipos de recombinação é que ocorrem em etapas diferentes da mitose.",
+        "c": "A recombinação gênica é classificada em homóloga e não-homóloga.",
+        "d": "Enquanto um tipo de recombinação permite a variabilidade, o outro tipo apresenta limitações.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Pares de genes, com segregação independente podem agir, conjuntamente, na determinação de uma mesma característica fenotípica. Este fenômeno é conhecido como:",
+        "questionNumber": "22",
+        "a": "interação gênica",
+        "b": "epistasia",
+        "c": "poligenia",
+        "d": "dominância completa",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "A mutação genética difere da recombinação gênica, pois",
+        "questionNumber": "23",
+        "a": "enquanto a mutação corresponde a uma mudança hereditária no DNA, a recombinação cria novos genes.",
+        "b": "enquanto a mutação corresponde a uma mudança hereditária no DNA, a recombinação se dá pela mistura de genes com seres da mesma espécie.",
+        "c": "A mutação é espontânea e a recombinação é induzida.",
+        "d": "A mutação é uma fonte secundária de variação, enquanto a recombinação é uma fonte primária.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Das alternativas a seguir qual NÃO apresenta um tipo de seleção natural.",
+        "questionNumber": "24",
+        "a": "Seleção direcional",
+        "b": "Seleção estabilizadora",
+        "c": "Seleção disruptiva",
+        "d": "Seleção dimensional",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(PUC - RIO) Uma característica genética recessiva presente no cromossomo Y é:",
+        "questionNumber": "25",
+        "a": "poder ser herdada do pai ou da mãe pelos descendentes do sexo masculino e do feminino.",
+        "b": "só poder ser herdada a partir do pai por seus descendentes do sexo masculino.",
+        "c": "só poder ser herdada a partir do pai por seus descendentes do sexo feminino.",
+        "d": "só poder ser herdada a partir da mãe por seus descendentes do sexo masculino.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Das opções abaixo, a que não representa um impacto ambiental é:",
+        "questionNumber": "26",
+        "a": "chuva ácida",
+        "b": "assoreamento dos rios",
+        "c": "desertificação",
+        "d": "mobilidade urbana",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Complete: O _________ é um dos principais problemas ambientais no Brasil que acontece desde a chegada dos portugueses em 1500.",
+        "questionNumber": "27",
+        "a": "assoreamento",
+        "b": "efeito estufa",
+        "c": "desmatamento",
+        "d": "empobrecimento do solo",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "As ilhas de calor representam um dos problemas ambientais urbanos. Esse fenômeno climático acontece devido:",
+        "questionNumber": "28",
+        "a": "ao aumento das queimadas nas zonas rurais.",
+        "b": "a diminuição da densidade demográfica dos centros urbanos.",
+        "c": "ao aumento da inversão térmica nas cidades.",
+        "d": "a elevação das temperaturas em algumas zonas urbanas.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "A poluição radioativa é considerada um dos piores tipos de poluição, pois:",
+        "questionNumber": "29",
+        "a": "provoca o desmatamento da cobertura vegetal.",
+        "b": "acelera o processo de desertificação do planeta.",
+        "c": "utiliza elementos artificiais criados em laboratório.",
+        "d": "libera gases e elementos tóxicos na atmosfera.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(FEBA) A hematose ocorre:",
+        "questionNumber": "30",
+        "a": "na matriz citoplasmática",
+        "b": "na matriz mitocondrial",
+        "c": "nos átrios cardíacos",
+        "d": "nos alvéolos pulmonares",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(UnB) Assinale a alternativa que apresenta uma estrutura comum ao sistema respiratório e digestivo.",
+        "questionNumber": "31",
+        "a": "Brônquios",
+        "b": "Faringe",
+        "c": "Pulmão",
+        "d": "Esôfago",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "(Fuvest-SP) No homem, o controle dos movimentos respiratórios é exercido",
+        "questionNumber": "32",
+        "a": "pelo cérebro",
+        "b": "pelo cerebelo",
+        "c": "pelo bulbo",
+        "d": "pela medula",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(Uece/1999) São células MAIS DIFERENCIADAS e com MENOR capacidade de reprodução:",
+        "questionNumber": "33",
+        "a": "neurônios.",
+        "b": "epiteliais de revestimento.",
+        "c": "hepatócitos.",
+        "d": "fibroblastos.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "(Fuvest) Qual dos seguintes comportamentos envolve maior número de órgãos do sistema nervoso?",
+        "questionNumber": "34",
+        "a": "Salivar ao sentir o aroma de comida gostosa.",
+        "b": "Levantar a perna quando o médico toca com martelo no joelho do paciente.",
+        "c": "Piscar com a aproximação brusca de um objeto.",
+        "d": "Preencher uma ficha de identificação.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Assinale a alternativa que NÃO apresenta uma função do sistema cardiovascular.",
+        "questionNumber": "35",
+        "a": "Transporte de nutrientes",
+        "b": "Eliminação de excreções",
+        "c": "Distribuição de mecanismos de defesa",
+        "d": "Produção de hormônios",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Sobre a estrutura do sistema cardiovascular é correto afirmar que:",
+        "questionNumber": "36",
+        "a": "É formada por coração, vasos sanguíneos e sangue.",
+        "b": "O coração, órgão muscular oco, está situado atrás dos pulmões.",
+        "c": "Os vasos sanguíneos são compostos por músculos estriados.",
+        "d": "O sangue é o principal órgão do sistema cardiovascular.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Sobre os vasos sanguíneos é INCORRETO afirmar que:",
+        "questionNumber": "37",
+        "a": "Constituem uma ampla rede de tubos por onde circula o sangue, distribuídos por todo o corpo.",
+        "b": "Existem três tipos de vasos sanguíneos: as artérias, as veias e os vasos capilares.",
+        "c": "Esses tubos possuem diferentes diâmetros e fazem circular o sangue arterial e venoso.",
+        "d": "São formados por duas camadas, também chamadas de túnicas.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "A pressão arterial está diretamente relacionada ao ciclo cardíaco e sobre ela é INCORRETO afirmar que:",
+        "questionNumber": "38",
+        "a": "A hipertensão corresponde à pressão arterial acima do ideal.",
+        "b": "Apresenta valores fixos independente da condição do indivíduo, como por exemplo a gravidez.",
+        "c": "Corresponde à pressão que o sangue faz sobre as paredes das artérias.",
+        "d": "A hipotensão arterial corresponde aos valores abaixo do ideal.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Sobre os lipídios é correto afirmar que:",
+        "questionNumber": "39",
+        "a": "são as macromoléculas fundamentais para a estrutura e função celular.",
+        "b": "são moléculas essenciais para as reações bioquímicas do nosso corpo.",
+        "c": "são moléculas orgânicas que não se dissolvem em água, mas que são solúveis em substâncias orgânicas, tais como álcool, éter e acetona.",
+        "d": "são compostos orgânicos importantes para acelerar reações químicas no organismo.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Entre as alternativas abaixo, identifique qual NÃO apresenta uma função dos lipídios.",
+        "questionNumber": "40",
+        "a": "Reserva energética",
+        "b": "Isolamento térmico",
+        "c": "Auxiliar na absorção de vitaminas",
+        "d": "Combate às infecções através dos anticorpos",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(Uel) A fórmula molecular do 2,3 - dimetil butano, é:",
+        "questionNumber": "41",
+        "a": "C6H14",
+        "b": "C6H12",
+        "c": "C6H10",
+        "d": "C4H10",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "(UFU-MG) A substância de fórmula C8H16 representa um:",
+        "questionNumber": "42",
+        "a": "alcano de cadeia aberta.",
+        "b": "alceno de cadeia aberta.",
+        "c": "alcino de cadeia aberta.",
+        "d": "composto aromático.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "(Unifor) O 2-metilpent-2-eno tem fórmula molecular:",
+        "questionNumber": "43",
+        "a": "C6H12.",
+        "b": "C6H10.",
+        "c": "C5H12.",
+        "d": "C5H10.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "(Uel) Um dos hidrocarbonetos de fórmula C5H12 pode ter cadeia carbônica:",
+        "questionNumber": "44",
+        "a": "cíclica saturada.",
+        "b": "acíclica heterogênea.",
+        "c": "aberta ramificada.",
+        "d": "cíclica ramificada.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(Fatec) O hidrocarboneto que apresenta a menor quantidade de átomos de H por molécula é:",
+        "questionNumber": "45",
+        "a": "metano.",
+        "b": "etano.",
+        "c": "eteno.",
+        "d": "etino.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(F. Ibero-Americana-SP) O grupo da Tabela Periódica que se caracteriza por apresentar predominância de elementos artificiais é o dos:",
+        "questionNumber": "46",
+        "a": "lantanídios",
+        "b": "gases nobres",
+        "c": "metais de transição",
+        "d": "actinídios",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(CESGRANRIO) Dados os elementos de números atômicos 3, 9, 11, 12, 20, 37, 38, 47, 55, 56 e 75, a opção que só contém metais alcalinos é:",
+        "questionNumber": "47",
+        "a": "3, 11, 37 e 55",
+        "b": "3, 9, 37 e 55",
+        "c": "9, 11, 38 e 55",
+        "d": "12, 20, 38 e 56",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "(UFC) Um átomo x tem um próton a mais que um átomo y. Com base nessa informação, determine a afirmativa correta.",
+        "questionNumber": "48",
+        "a": "Se y for alcalino-terroso, x será metal alcalino.",
+        "b": "Se y for um gás nobre, x será um halogênio.",
+        "c": "Se y for um metal de transição, x será um gás nobre.",
+        "d": "Se y for um gás nobre, x será metal alcalino.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(FAESP) Constituem propriedades aperiódicas dos elementos:",
+        "questionNumber": "49",
+        "a": "densidade, volume atômico e massa atômica.",
+        "b": "ponto de fusão, eletronegatividade e calor específico.",
+        "c": "volume atômico, massa atômica e ponto de fusão.",
+        "d": "massa atômica e calor específico.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(UESB) A radioatividade emitida por determinadas amostras de substâncias provém",
+        "questionNumber": "50",
+        "a": "da energia térmica liberada em sua combustão.",
+        "b": "de alterações em núcleos de átomos que as formam.",
+        "c": "de rupturas de ligações químicas entre os átomos que as formam.",
+        "d": "de rupturas de ligações químicas entre os átomos que as formam.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "A globalização foi um processo iniciado nos anos 90. Para a indústria, uma das principais consequências foi:",
+        "questionNumber": "51",
+        "a": "reorganização do mercado de trabalho, com a diminuição dos direitos trabalhistas somente nos países desenvolvidos.",
+        "b": "desconcentração espacial da indústria e da tecnologia que pode estar em qualquer parte do globo.",
+        "c": "melhora das condições de trabalho nos países asiáticos, em geral e na China, em particular.",
+        "d": "fim do trabalho escravo registrado nos países da periferia do capitalismo.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Entre as características da Globalização podemos citar:",
+        "questionNumber": "51",
+        "a": "reorganização produtiva baseada no Toyotismo.",
+        "b": "surgimento de novas empresas baseadas no capital estatal",
+        "c": "ampliação de políticas sociais aliada à incorporação de novas tecnologias.",
+        "d": "expansão do capital financeiro e surgimento de blocos econômicos.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "A globalização é um processo econômico, social e cultural que aproxima as nações de todo o mundo. Sobre o aspecto cultural podemos observar:",
+        "questionNumber": "53",
+        "a": "na popularização do idioma inglês, em todos os âmbitos sociais.",
+        "b": "na hegemonia europeia através de programas de financiamento científico e cultural",
+        "c": "no surgimento de movimentos de nacionalização que são contra a globalização",
+        "d": "no fortalecimento das relações culturais entre países em desenvolvimento e desenvolvidos.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Marque a alternativa que NÃO apresenta climas do Brasil.",
+        "questionNumber": "54",
+        "a": "Tropical Atlântico e Tropical de Altitude",
+        "b": "Temperado e Mediterrâneo",
+        "c": "Equatorial e Tropical",
+        "d": "Subtropical e Semiárido",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "De acordo com a origem dos sedimentos, as planícies podem ser de quais tipos?",
+        "questionNumber": "55",
+        "a": "vulcânica, litorânea e erosiva",
+        "b": "de água doce, de água marinha e terrestre",
+        "c": "costeira, fluvial e lacustre",
+        "d": "desertas, arenosas e lateralizada",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "As formações geológicas constituídas de rochas sedimentares, metamórficas e vulcânicas originam, respectivamente, os planaltos",
+        "questionNumber": "56",
+        "a": "monominerálicos, diminerálicos e poliminerálicos",
+        "b": "magmáticos, ígneos e metamórficos",
+        "c": "erosivos, glaciais e marinhos",
+        "d": "sedimentares, cristalinos e basálticos",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "De acordo com os fenômenos naturais sofridos ao longo dos anos, as montanhas são classificadas em:",
+        "questionNumber": "57",
+        "a": "planas, irregulares, fluviais e lacustres",
+        "b": "sedimentares, cristalinas, intrusivas e extrusivas",
+        "c": "vulcânicas, dobradas, falhadas e de erosão",
+        "d": "erosivas, magmáticas, basálticas e costeiras",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "As depressões são formadas principalmente pelos processos de erosão. Elas são classificadas em depressões relativas e absolutas de acordo com",
+        "questionNumber": "58",
+        "a": "os relevos circundantes",
+        "b": "a altitude",
+        "c": "a posição em relação ao nível do mar",
+        "d": "as rochas formadoras",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Quais das opções a seguir NÃO é considerada uma forma de relevo?",
+        "questionNumber": "59",
+        "a": "Morro",
+        "b": "Chapada",
+        "c": "Serra",
+        "d": "Latossolo",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "As ilhas podem ser definidas como",
+        "questionNumber": "60",
+        "a": "porções do continente que se desprenderam e não mais estão ligadas a eles.",
+        "b": "porções de terra com um terço de dimensões continentais.",
+        "c": "constituintes do relevo oceânico, que se elevam acima do nível das águas.",
+        "d": "porção de relevo que flutuam no oceano.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "A formação do solo é resultado:",
+        "questionNumber": "61",
+        "a": "Apenas da ação de agentes orgânicos no meio ambiente.",
+        "b": "Da deposição de materiais inorgânicos que se acumulam na superfície terrestre.",
+        "c": "Da ação integrada e simultânea de fatores e processos.",
+        "d": "Das transformações primárias que um material de origem sofre.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Qual das alternativas a seguir apresenta os fatores que atuam de forma conjunta na formação do solo?",
+        "questionNumber": "62",
+        "a": "rochas, areia, água e temperatura.",
+        "b": "magma, fatores bióticos, fatores abióticos e resíduos.",
+        "c": "microrganismos, umidade, temperatura e minerais.",
+        "d": "material de origem, clima, organismos, relevo e tempo.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Para a formação do solo deve ocorrer os processos de:",
+        "questionNumber": "63",
+        "a": "arenização, deslizamento, desmatamento e impermeabilização.",
+        "b": "perdas, transformações, transportes e adições.",
+        "c": "erosão, infiltração, sublimação e arenização.",
+        "d": "climatização, salinização, desgaste e acúmulo de água.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Qual das alternativas a seguir NÃO apresenta uma característica que diferencia os movimentos de rotação e translação?",
+        "questionNumber": "64",
+        "a": "A duração",
+        "b": "A direção",
+        "c": "A inclinação",
+        "d": "A velocidade",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Qual das alternativas a seguir NÃO apresenta consequências dos movimentos da Terra?",
+        "questionNumber": "65",
+        "a": "Sucessão de dias e noites",
+        "b": "Sucessão de solstícios e equinócios",
+        "c": "Sistema de fuso-horários",
+        "d": "Uniformidade das estações do ano",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Qual das alternativas a seguir NÃO apresenta consequências dos movimentos da Terra?",
+        "questionNumber": "66",
+        "a": "Sucessão de dias e noites",
+        "b": "Sucessão de solstícios e equinócios",
+        "c": "Sistema de fuso-horários",
+        "d": "Uniformidade das estações do ano",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(FCC) Qual é a velocidade escalar média, em km/h, de uma pessoa que percorre a pé 1200 m em 20 min?",
+        "questionNumber": "67",
+        "a": "4,8",
+        "b": "3,6",
+        "c": "2,7",
+        "d": "2,1",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "(Cesgranrio) Uma pessoa, correndo, percorre 4,0 km com velocidade escalar média de 12 km/h. O tempo do percurso é de:",
+        "questionNumber": "68",
+        "a": "3,0 min",
+        "b": "8,0 min",
+        "c": "20 min",
+        "d": "30 min",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(Unitau) Um carro mantém uma velocidade escalar constante de 72,0 km/h. Em uma hora e dez minutos ele percorre, em quilômetros, a distância de:",
+        "questionNumber": "69",
+        "a": "79,2",
+        "b": "80,0",
+        "c": "82,4",
+        "d": "84,0",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(UEL) Um pequeno animal desloca-se com velocidade média igual a 0,5 m/s. A velocidade desse animal em km/dia é:",
+        "questionNumber": "70",
+        "a": "13,8",
+        "b": "48,3",
+        "c": "43,2",
+        "d": "4,30",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(EsPECx - 2013) Um termômetro digital, localizado em uma praça na Inglaterra, marca a temperatura de 10,4 ºF. Essa temperatura, na escala Celsius, corresponde a",
+        "questionNumber": "71",
+        "a": "- 5 ºC",
+        "b": "- 10 ºC",
+        "c": "- 12 ºC",
+        "d": "- 27 ºC",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(UECE) Do ponto de vista da primeira lei da termodinâmica, o balanço de energia de um dado sistema é dado em termos de três grandezas:",
+        "questionNumber": "72",
+        "a": "pressão, volume e temperatura.",
+        "b": "calor, energia interna e volume.",
+        "c": "trabalho, calor e energia interna.",
+        "d": "trabalho, calor e densidade.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(UFRS) Qual é a variação de energia interna de um gás ideal sobre a qual é realizado um trabalho de 80J, durante uma compressão adiabática?",
+        "questionNumber": "73",
+        "a": "80 J",
+        "b": "40 J",
+        "c": "zero",
+        "d": "– 40 J",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "(FAAP) Dois pontos A e B situam-se respectivamente a 10 cm e 20 cm do eixo de rotação da roda de um automóvel em movimento uniforme. É possível afirmar que:",
+        "questionNumber": "74",
+        "a": "O período do movimento de A é menor quer o de B.",
+        "b": "A frequência do movimento de A é maior que o de B.",
+        "c": "A velocidade angular do movimento de B é maior que a de A.",
+        "d": "As velocidades angulares de A e B são iguais.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "(UECE-CEVE - 2018) Um relógio mecânico, os ponteiros de minuto e segundo têm velocidade angular, respectivamente,",
+        "questionNumber": "75",
+        "a": "60 rpm e 1 rpm.",
+        "b": "60 radianos/s e 1 rpm.",
+        "c": "1/60 rpm e 1 rpm.",
+        "d": "1 radiano/s e 60 rpm.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "(PUC/RJ - 2018) Um carro parte do repouso com aceleração de 5,0 m/s2 e percorre uma distância de 1,0 km. Qual é o valor da velocidade média do carro, em m/s, nesse trecho?",
+        "questionNumber": "76",
+        "a": "2,5",
+        "b": "20",
+        "c": "50",
+        "d": "100",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "[...], o que faz com que durante o dia a temperatura chegue a 105 °C e à noite caia para −155 °C. Essa variação térmica, medida na escala Fahrenheit de temperatura, vale: ",
+        "questionNumber": "77",
+        "a": "50.",
+        "b": "90.",
+        "c": "292.",
+        "d": "468.",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Dividindo o polinômio p(x) por d(x) = x² + 1, encontram-se o quociente q(x) = x + 3 e o resto r(x) = -7x - 11. Então a soma de todas as soluções da equação p(x) = 0 é igual a:",
+        "questionNumber": "78",
+        "a": "-3",
+        "b": "-1",
+        "c": "8",
+        "d": "16",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Considerando-se os algarismos significativos dos números 28,7 e 1,03, podemos afirmar que a soma destes números é dada por:",
+        "questionNumber": "79",
+        "a": "29,7",
+        "b": "29,73",
+        "c": "29",
+        "d": "29,74",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Quantos anagramas da palavra PERFIL começam com P ou terminam com L?",
+        "questionNumber": "80",
+        "a": "200",
+        "b": "224",
+        "c": "232",
+        "d": "216",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Se loga b = 3 e logab c = 4, então loga c é:",
+        "questionNumber": "81",
+        "a": "12",
+        "b": "16",
+        "c": "24",
+        "d": "8",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Se log5 x = 2 e log10 y = 4, então log20 y/x é:",
+        "questionNumber": "82",
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Se 10^x = 20^y , atribuindo 0,3 para log 2 , então o valor de x/y é:",
+        "questionNumber": "83",
+        "a": "0,3.",
+        "b": "0,5.",
+        "c": "0,7.",
+        "d": "1,3.",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Atribuindo para log 2 o valor 0,3, então o valor de 100^0,3 é:",
+        "questionNumber": "84",
+        "a": "3",
+        "b": "4",
+        "c": "8",
+        "d": "10",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "A solução da equação na variável real x , logx (x+6) = 2 , é um número:",
+        "questionNumber": "85",
+        "a": "primo.",
+        "b": "par.",
+        "c": "negativo",
+        "d": "irracional.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Um agricultor tinha 163 frutas entre laranjas e maçãs. Vendeu 2/3 das laranjas e 4/5 das maçãs e, agora, o número de laranjas supera em 1 o número de maçãs. Quantas laranjas e maçãs ele tinha?",
+        "questionNumber": "86",
+        "a": "115 maçãs e 48 laranjas",
+        "b": "95 maçãs e 68 laranjas",
+        "c": "100 maçãs e 63 laranjas",
+        "d": "120 maçãs e 43 laranjas",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "A soma de todas as frações da forma n/(n+1), onde n é um elemento do conjunto {1, 2, 3, 4, 5}, é",
+        "questionNumber": "87",
+        "a": "4,55",
+        "b": "6,55",
+        "c": "5,55",
+        "d": "3,55",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Em uma esfera o volume é numericamente igual à área. Sobre o raio dessa esfera, podemos afirmar que:",
+        "questionNumber": "88",
+        "a": "é um número irracional",
+        "b": "é um número quadrado perfeito",
+        "c": "é um número primo",
+        "d": "é um número par",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Na seguinte sequência de números reais 0, 1, √2, √3, 2, √5, √6, √7, √8, 3, √10, ..., construída seguindo uma lógica estrutural, o número de termos entre 17 e 18, sem incluir 17 e 18, é",
+        "questionNumber": "89",
+        "a": "36",
+        "b": "34",
+        "c": "33",
+        "d": "35",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Assinale o valor de θ para o qual sen2θ = tgθ .",
+        "questionNumber": "90",
+        "a": "π/2",
+        "b": "π/32",
+        "c": "(2π)/3",
+        "d": "(3π)/4",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Considere: x+(x+2)^0,5=10, é correto afiramar que:",
+        "questionNumber": "91",
+        "a": "não possui raízes reais.",
+        "b": "possui uma única raiz real.",
+        "c": "possui duas raízes reais distintas.",
+        "d": "possui duas raízes complexas distintas.",
+        "answer": "b",
+        "points": 1
+    },
+    {
+        "question": "Quatro moedas são lançadas simultaneamente. Qual é a probabilidade de ocorrer coroa em uma só moeda?",
+        "questionNumber": "92",
+        "a": "1/8",
+        "b": "2/9",
+        "c": "1/4",
+        "d": "1/3",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Jogamos dois dados comuns. Qual a probabilidade de que o total de pontos seja igual a 10?",
+        "questionNumber": "93",
+        "a": "1/12",
+        "b": "1/11",
+        "c": "1/10",
+        "d": "2/23",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "A probabilidade de um casal com quatro filhos ter dois do sexo masculino e dois do sexo feminino é:",
+        "questionNumber": "94",
+        "a": "60%",
+        "b": "50%",
+        "c": "45%",
+        "d": "37,5%",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "A probabilidade de um dos cem números 1, 2, 3, 4, ..., 100 ser múltiplo de 6 e de 10 ao mesmo tempo é:",
+        "questionNumber": "95",
+        "a": "3%.",
+        "b": "6%",
+        "c": "2%",
+        "d": "10%.",
+        "answer": "a",
+        "points": 1
+    },
+    {
+        "question": "Um dado não tendencioso de seis faces será lançado duas vezes. A probabilidade de que o maior valor obtido nos lançamentos seja menor do que 3 é igual a:",
+        "questionNumber": "96",
+        "a": "1/3",
+        "b": "1/5.",
+        "c": "1/7.",
+        "d": "1/9..",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Uma moeda balanceada é lançada quatro vezes, obtendo-se cara exatamente três vezes. A probabilidade de que as caras tenham saído consecutivamente é igual a:",
+        "questionNumber": "97",
+        "a": "1/4.",
+        "b": "3/8",
+        "c": "1/2.",
+        "d": "3/4",
+        "answer": "c",
+        "points": 1
+    },
+    {
+        "question": "Um dado não tendencioso de seis faces será lançado duas vezes. A probabilidade de que o maior valor obtido nos lançamentos seja menor do que 3 é igual a:",
+        "questionNumber": "98",
+        "a": "1/3.",
+        "b": "1/5.",
+        "c": "1/7.",
+        "d": "1/9",
+        "answer": "d",
+        "points": 1
+    },
+    {
+        "question": "Considerando pi como um numero entre 3 e 4, as condições econômicas da Turquia, investimentos na educação do governo Brasileiro nos ultimos 40 anos, a data de nascimento do Roberto Carlos, Calcule a massa do sol",
+        "questionNumber": "99",
+        "a": "1.989 × 10^27 kg",
+        "b": "1.989 × 10^30 kg",
+        "c": "1.989 × 10^38 kg",
+        "d": "20 kg",
+        "answer": "b",
+        "points": 1
+    }
+]
